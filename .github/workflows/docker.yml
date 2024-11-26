@@ -20,4 +20,4 @@ jobs:
         with:
           context: DockerFileFolder/
           push: true
-          tags: mathispappo/HotelRoomAPI:latest
+          tags: mathispappo/hotelroomapi:latest
